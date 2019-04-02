@@ -28,14 +28,3 @@ dat4 = pd.read_csv('group.csv')
 dat5 = pd.read_csv('order.csv')
 dat6 = pd.read_csv('training-set.csv')
 dat7 = pd.read_csv('testing-set.csv')
-
-
-
-
-
-
-
-
-
-
-
