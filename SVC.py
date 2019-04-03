@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 12 21:23:29 2018
-
-@author: yifor
-"""
-
 import winsound
 from sklearn import svm
 from sklearn.model_selection import GridSearchCV
@@ -21,12 +15,6 @@ def svc_Class_param_selection(X, y, nfolds):
 
 
 svc_Class_param_selection(class_data, class_y, 5 )
-
-
-winsound.Beep(2500, 500)
-
-
-
 
  import os
  os.chdir('D:\google下載\libsvm-3.23\libsvm-3.23\python')
