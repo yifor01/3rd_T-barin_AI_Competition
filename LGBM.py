@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  1 02:24:55 2018
-
-@author: yifor
-"""
-##########################################################################
-# 2.LightGBM (桌電)
+# 2.LightGBM 
 import winsound
 import lightgbm as lgb
 from sklearn.model_selection import GridSearchCV
