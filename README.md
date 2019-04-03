@@ -3,4 +3,4 @@
 
 * Data: https://tbrain.trendmicro.com.tw/Competitions/Details/3
 
-It'll be update soon.
+* Method: LightGBM, SVC
